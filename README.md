@@ -9,7 +9,7 @@ Since this is being used as a tool to learn java and meet the needs of the class
 
 To demonstrate the use of databases as well as dat files, user accounts will be stored in a derby database. A simulated background synchronization process has been added, which shows the use of concurrency (implementing a full JSON REST API is beyond the scope/timeframe available for this assignment)
 
-Requirements as implemented:
+# Requirements as implemented:
 
 ## Create list of emotion entries
 WeFeel can create a list of emotion entries.
@@ -35,17 +35,17 @@ Users will be able to view all entries with an Outlook less than 5
 Users will be able to view all entries with an Outlook greater than 5
 ## WeFeel will export to JSON
 Users will be able to export all entries to JSON format.
-## WeFeel will create a default user account (NEW)
+## WeFeel will create a default user account
 On launch WeFeel will look for a default account and either load the account or present a page to create a new account.
-## WeFeel will have a user account creation page (NEW)
+## WeFeel will have a user account creation page
 A user account creation page will request account info from the user and store it as a default account
-## WeFeel stored Emotion Entries based on the AccountID (NEW)
+## WeFeel stored Emotion Entries based on the AccountID
 In order to allow for a future release to support multiple account entries will not be stored in files based on the accountID
-## WeFeel will be able to delete the default account (NEW)
+## WeFeel will be able to delete the default account
 A user can delete their information to “reset” WeFeel to a default state.
-## WeFeel simulates an online sync (NEW)
+## WeFeel simulates an online sync
 WeFeel will simulate an online entry synchronization running as a background task to minimize delays to the user interface.
-## WeFeel logs simulated connection data (NEW)
+## WeFeel logs simulated connection data
 The background sync process will create a “simulated” connection log file.
 
   
