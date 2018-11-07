@@ -1,0 +1,103 @@
+{
+  "emotionEntries" : [ {
+    "emotions" : {
+      "Joy" : {
+        "type" : "Joy",
+        "intensity" : 8.0,
+        "emotionDescription" : "Contentment, Cheerfulness, Bliss, Joviality, Delight, Happiness, Satisfaction, Ecstasy, Euphoria, Enthusiasm, Excitement, Exhilaration, Optimism, Hope",
+        "emotionName" : "Joy"
+      },
+      "Outlook" : {
+        "type" : "Outlook",
+        "intensity" : 9.0,
+        "emotionDescription" : "Rate how positive you feel about your future.",
+        "name" : "Outlook",
+        "startPoint" : 5.0,
+        "emotionName" : "Outlook"
+      },
+      "Love" : {
+        "type" : "Love",
+        "intensity" : 7.0,
+        "emotionDescription" : "Affection, Adoration, Fondness, Attractiveness, Caring, Tenderness, Compassion, Lust, Desire, Passion, Infatuation",
+        "emotionName" : "Love"
+      }
+    },
+    "entryLocation" : "Home",
+    "entrySituation" : "Family",
+    "entryActivity" : "Playing",
+    "entryNote" : "My spouse is awesome!",
+    "entryDate" : [ 2018, 6, 19, 19, 5, 57, 169000000 ]
+  }, {
+    "emotions" : {
+      "Fear" : {
+        "type" : "Fear",
+        "intensity" : 8.0,
+        "emotionDescription" : "Nervousness, Anxiety, Uneasiness, Apprehension, Worry, Distress, Dread, Alarm, Shock, Terror, Panic",
+        "emotionName" : "Fear"
+      },
+      "Outlook" : {
+        "type" : "Outlook",
+        "intensity" : 3.0,
+        "emotionDescription" : "Rate how positive you feel about your future.",
+        "name" : "Outlook",
+        "startPoint" : 5.0,
+        "emotionName" : "Outlook"
+      },
+      "Sorrow" : {
+        "type" : "Sorrow",
+        "intensity" : 3.0,
+        "emotionDescription" : "Sadness, Depression, Despair, Unhappy, Grief, Misery, Disappointment, Dismay, Displeasure, Embarrassment, Humiliation, Insecurity",
+        "emotionName" : "Sorrow"
+      }
+    },
+    "entryLocation" : "Public",
+    "entrySituation" : "Crowd",
+    "entryActivity" : "Socializing",
+    "entryNote" : "Ahhh! Way too many people!",
+    "entryDate" : [ 2018, 6, 19, 19, 5, 57, 169000000 ]
+  }, {
+    "emotions" : {
+      "Disgust" : {
+        "type" : "Disgust",
+        "intensity" : 2.0,
+        "emotionDescription" : "Boredom, Distaste, Revulsion, Repugnance, Aversion, Nausea, Abhorrence",
+        "emotionName" : "Disgust"
+      },
+      "Outlook" : {
+        "type" : "Outlook",
+        "intensity" : 4.0,
+        "emotionDescription" : "Rate how positive you feel about your future.",
+        "name" : "Outlook",
+        "startPoint" : 5.0,
+        "emotionName" : "Outlook"
+      }
+    },
+    "entryLocation" : "Work",
+    "entrySituation" : "Alone",
+    "entryActivity" : "Working",
+    "entryNote" : "I'm so bored here at work!",
+    "entryDate" : [ 2018, 6, 19, 19, 5, 57, 169000000 ]
+  }, {
+    "emotions" : {
+      "Outlook" : {
+        "type" : "Outlook",
+        "intensity" : 2.0,
+        "emotionDescription" : "Rate how positive you feel about your future.",
+        "name" : "Outlook",
+        "startPoint" : 5.0,
+        "emotionName" : "Outlook"
+      },
+      "Sorrow" : {
+        "type" : "Sorrow",
+        "intensity" : 8.0,
+        "emotionDescription" : "Sadness, Depression, Despair, Unhappy, Grief, Misery, Disappointment, Dismay, Displeasure, Embarrassment, Humiliation, Insecurity",
+        "emotionName" : "Sorrow"
+      }
+    },
+    "entryLocation" : "Work",
+    "entrySituation" : "Alone",
+    "entryActivity" : "Working",
+    "entryNote" : "Why is everything so hard",
+    "entryDate" : [ 2018, 6, 19, 19, 5, 57, 187000000 ]
+  } ]
+}

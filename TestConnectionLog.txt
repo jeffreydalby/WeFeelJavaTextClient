@@ -1,0 +1,128 @@
+Connected to https://service.wefeel.com at 2018-06-18T13:18:34.331
+Sending the following entry: {
+  "emotions" : {
+    "Joy" : {
+      "type" : "Joy",
+      "intensity" : 7.0,
+      "emotionDescription" : "Contentment, Cheerfulness, Bliss, Joviality, Delight, Happiness, Satisfaction, Ecstasy, Euphoria, Enthusiasm, Excitement, Exhilaration, Optimism, Hope",
+      "emotionName" : "Joy"
+    },
+    "Outlook" : {
+      "type" : "Outlook",
+      "intensity" : 9.0,
+      "emotionDescription" : "Rate how positive you feel about your future.",
+      "name" : "Outlook",
+      "startPoint" : 5.0,
+      "emotionName" : "Outlook"
+    },
+    "Love" : {
+      "type" : "Love",
+      "intensity" : 7.0,
+      "emotionDescription" : "Affection, Adoration, Fondness, Attractiveness, Caring, Tenderness, Compassion, Lust, Desire, Passion, Infatuation",
+      "emotionName" : "Love"
+    }
+  },
+  "entryLocation" : "Home",
+  "entrySituation" : "Family",
+  "entryActivity" : "Playing",
+  "entryNote" : "My spouse is awesome!",
+  "entryDate" : [ 2018, 6, 18, 19, 18, 34, 309000000 ]
+}
+Upload Succeeded
+
+Connected to https://service.wefeel.com at 2018-06-19T12:18:04.568
+Sending the following entry: {
+  "emotions" : {
+    "Joy" : {
+      "type" : "Joy",
+      "intensity" : 7.0,
+      "emotionDescription" : "Contentment, Cheerfulness, Bliss, Joviality, Delight, Happiness, Satisfaction, Ecstasy, Euphoria, Enthusiasm, Excitement, Exhilaration, Optimism, Hope",
+      "emotionName" : "Joy"
+    },
+    "Outlook" : {
+      "type" : "Outlook",
+      "intensity" : 9.0,
+      "emotionDescription" : "Rate how positive you feel about your future.",
+      "name" : "Outlook",
+      "startPoint" : 5.0,
+      "emotionName" : "Outlook"
+    },
+    "Love" : {
+      "type" : "Love",
+      "intensity" : 7.0,
+      "emotionDescription" : "Affection, Adoration, Fondness, Attractiveness, Caring, Tenderness, Compassion, Lust, Desire, Passion, Infatuation",
+      "emotionName" : "Love"
+    }
+  },
+  "entryLocation" : "Home",
+  "entrySituation" : "Family",
+  "entryActivity" : "Playing",
+  "entryNote" : "My spouse is awesome!",
+  "entryDate" : [ 2018, 6, 19, 18, 18, 4, 530000000 ]
+}
+Upload Succeeded
+
+Connected to https://service.wefeel.com at 2018-06-19T12:19:16.471
+Sending the following entry: {
+  "emotions" : {
+    "Joy" : {
+      "type" : "Joy",
+      "intensity" : 7.0,
+      "emotionDescription" : "Contentment, Cheerfulness, Bliss, Joviality, Delight, Happiness, Satisfaction, Ecstasy, Euphoria, Enthusiasm, Excitement, Exhilaration, Optimism, Hope",
+      "emotionName" : "Joy"
+    },
+    "Outlook" : {
+      "type" : "Outlook",
+      "intensity" : 9.0,
+      "emotionDescription" : "Rate how positive you feel about your future.",
+      "name" : "Outlook",
+      "startPoint" : 5.0,
+      "emotionName" : "Outlook"
+    },
+    "Love" : {
+      "type" : "Love",
+      "intensity" : 7.0,
+      "emotionDescription" : "Affection, Adoration, Fondness, Attractiveness, Caring, Tenderness, Compassion, Lust, Desire, Passion, Infatuation",
+      "emotionName" : "Love"
+    }
+  },
+  "entryLocation" : "Home",
+  "entrySituation" : "Family",
+  "entryActivity" : "Playing",
+  "entryNote" : "My spouse is awesome!",
+  "entryDate" : [ 2018, 6, 19, 18, 19, 16, 464000000 ]
+}
+Upload Succeeded
+
+Connected to https://service.wefeel.com at 2018-06-19T13:05:56.751
+Sending the following entry: {
+  "emotions" : {
+    "Joy" : {
+      "type" : "Joy",
+      "intensity" : 7.0,
+      "emotionDescription" : "Contentment, Cheerfulness, Bliss, Joviality, Delight, Happiness, Satisfaction, Ecstasy, Euphoria, Enthusiasm, Excitement, Exhilaration, Optimism, Hope",
+      "emotionName" : "Joy"
+    },
+    "Outlook" : {
+      "type" : "Outlook",
+      "intensity" : 9.0,
+      "emotionDescription" : "Rate how positive you feel about your future.",
+      "name" : "Outlook",
+      "startPoint" : 5.0,
+      "emotionName" : "Outlook"
+    },
+    "Love" : {
+      "type" : "Love",
+      "intensity" : 7.0,
+      "emotionDescription" : "Affection, Adoration, Fondness, Attractiveness, Caring, Tenderness, Compassion, Lust, Desire, Passion, Infatuation",
+      "emotionName" : "Love"
+    }
+  },
+  "entryLocation" : "Home",
+  "entrySituation" : "Family",
+  "entryActivity" : "Playing",
+  "entryNote" : "My spouse is awesome!",
+  "entryDate" : [ 2018, 6, 19, 19, 5, 56, 745000000 ]
+}
+Upload Succeeded
+

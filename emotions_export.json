@@ -1,0 +1,103 @@
+{
+  "emotionEntries" : [ {
+    "emotions" : {
+      "Anger" : {
+        "type" : "anger",
+        "intensity" : 5.0,
+        "emotionDescription" : null,
+        "emotionName" : "Anger"
+      },
+      "Fear" : {
+        "type" : "fear",
+        "intensity" : 5.0,
+        "emotionDescription" : null,
+        "emotionName" : "Fear"
+      },
+      "Outlook" : {
+        "type" : "outlook",
+        "intensity" : 5.0,
+        "emotionDescription" : null,
+        "name" : "Outlook",
+        "startPoint" : 5.0,
+        "emotionName" : "Outlook"
+      }
+    },
+    "entryLocation" : "Home",
+    "entrySituation" : "Alone",
+    "entryActivity" : "Relaxing",
+    "entryNote" : "Testing Entries",
+    "entryDate" : [ 2018, 6, 4, 19, 59, 23, 520000000 ]
+  }, {
+    "emotions" : {
+      "Joy" : {
+        "type" : "joy",
+        "intensity" : 8.0,
+        "emotionDescription" : null,
+        "emotionName" : "Joy"
+      },
+      "Outlook" : {
+        "type" : "outlook",
+        "intensity" : 8.0,
+        "emotionDescription" : null,
+        "name" : "Outlook",
+        "startPoint" : 5.0,
+        "emotionName" : "Outlook"
+      }
+    },
+    "entryLocation" : "Work",
+    "entrySituation" : "Alone",
+    "entryActivity" : "Working",
+    "entryNote" : "Happy day at work!",
+    "entryDate" : [ 2018, 6, 4, 20, 0, 18, 729000000 ]
+  }, {
+    "emotions" : {
+      "Outlook" : {
+        "type" : "outlook",
+        "intensity" : 2.0,
+        "emotionDescription" : null,
+        "name" : "Outlook",
+        "startPoint" : 5.0,
+        "emotionName" : "Outlook"
+      },
+      "Sorrow" : {
+        "type" : "sorrow",
+        "intensity" : 8.0,
+        "emotionDescription" : null,
+        "emotionName" : "Sorrow"
+      }
+    },
+    "entryLocation" : "School",
+    "entrySituation" : "Alone",
+    "entryActivity" : "Working",
+    "entryNote" : "Depressing day at school",
+    "entryDate" : [ 2018, 6, 4, 20, 1, 0, 397000000 ]
+  }, {
+    "emotions" : {
+      "Anger" : {
+        "type" : "anger",
+        "intensity" : 5.0,
+        "emotionDescription" : null,
+        "emotionName" : "Anger"
+      },
+      "Disgust" : {
+        "type" : "disgust",
+        "intensity" : 2.0,
+        "emotionDescription" : null,
+        "emotionName" : "Disgust"
+      },
+      "Outlook" : {
+        "type" : "outlook",
+        "intensity" : 7.0,
+        "emotionDescription" : null,
+        "name" : "Outlook",
+        "startPoint" : 5.0,
+        "emotionName" : "Outlook"
+      }
+    },
+    "entryLocation" : "Work",
+    "entrySituation" : "Alone",
+    "entryActivity" : "Working",
+    "entryNote" : "Frustrating Day!",
+    "entryDate" : [ 2018, 6, 4, 20, 52, 51, 770000000 ]
+  } ]
+}

@@ -1,0 +1,15 @@
+{
+  "journalEntries" : [ {
+    "entryDate" : [ 2018, 5, 25, 14, 32 ],
+    "entryText" : "This is entry 1."
+  }, {
+    "entryDate" : [ 2018, 5, 26, 16, 12 ],
+    "entryText" : "This is entry 2."
+  }, {
+    "entryDate" : [ 2018, 5, 27, 8, 45 ],
+    "entryText" : "This is entry 3."
+  }, {
+    "entryDate" : [ 2018, 5, 28, 19, 6 ],
+    "entryText" : "This is Entry 4."
+  } ]
+}
